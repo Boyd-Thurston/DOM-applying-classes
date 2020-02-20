@@ -21,6 +21,14 @@ div {
   background-color: blue;
 }
 
+.green {
+  background-color: green;
+}
+
+.aqua {
+  background-color: aqua;
+}
+
 .invisible {
   display: none;
 }
